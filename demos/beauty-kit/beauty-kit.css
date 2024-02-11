@@ -4,13 +4,15 @@
 -----------------------------------------------------------------*/
 
 :root {
-	--cnvs-themecolor:  #222E2B;
-	--cnvs-themecolor-rgb: 35, 47, 44;
-	--cnvs-color-light: #ECD49A;
-	--cnvs-color2: #42615B;
-	--cnvs-color3: #D66251;
+
+	--cnvs-themecolor: #1F2544; /*this is for some text */
+	--cnvs-themecolor-rgb:26, 18, 11;/*this is for background and some text */
+	--cnvs-color-light: #E5E5CB;/*this is for background and some text */
+	--cnvs-color2: #3C2A21;/*this is for background and some text */
+	--cnvs-color3: #D5CEA3;/*this is for background and some text */
 	--cnvs-primary-font: 'Cinzel', serif;
 	--cnvs-body-font: 'El Messiri', sans-serif;
+
 
 	--cnvs-side-header-width: 280px;
 	--cnvs-heading-color: var(--cnvs-themecolor);
@@ -18,9 +20,9 @@
 
 #header {
   	--cnvs-primary-menu-hover-color: var(--cnvs-color-light);
-	--cnvs-primary-menu-font-size: 13px;
-	--cnvs-primary-menu-font-weight: 400;
-	--cnvs-primary-menu-ls: 1px;
+	--cnvs-primary-menu-font-size: 16px;/*this is for menu text */
+	--cnvs-primary-menu-font-weight: 600;
+	--cnvs-primary-menu-ls: 2px;/*this is for text space */
 }
 
 .button:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):not(.bg-color2):not(.bg-color1):not(.bg-color-light), .button.button-dark:hover { background-color: var(--cnvs-color3) !important; }
