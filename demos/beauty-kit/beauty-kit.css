@@ -4,13 +4,15 @@
 -----------------------------------------------------------------*/
 
 :root {
+
 	--cnvs-themecolor: #1F2544; /*this is for some text */
 	--cnvs-themecolor-rgb:26, 18, 11;/*this is for background and some text */
 	--cnvs-color-light: #E5E5CB;/*this is for background and some text */
 	--cnvs-color2: #3C2A21;/*this is for background and some text */
 	--cnvs-color3: #D5CEA3;/*this is for background and some text */
-	--cnvs-primary-font: 'Merriweather', serif;
-	--cnvs-body-font: 'Inter', sans-serif;
+	--cnvs-primary-font: 'Cinzel', serif;
+	--cnvs-body-font: 'El Messiri', sans-serif;
+
 
 	--cnvs-side-header-width: 280px;
 	--cnvs-heading-color: var(--cnvs-themecolor);
