@@ -6,3 +6,17 @@
 -----------------------------------------------------------------*/
 
 
+
+#slider .button {
+    color: black;
+    
+}
+
+.col-xl-5 .button {
+	color: black; 
+	
+}
+
+.footer-widgets-wrap button {
+	color: black;
+}
