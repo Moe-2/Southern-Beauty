@@ -17,3 +17,6 @@ Our goal is to create a platform that brings together a curated selection of exp
 5. **Navigation**: The landing page must include navigation links to the other sections of the landing page.
 
 6. **Presentation**: Present the landing page and recieve feedback.
+
+deployment link: 
+https://moe-2.github.io/Southern-Beauty/
